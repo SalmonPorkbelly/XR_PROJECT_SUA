@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc68ed4-f5c6-4808-b3d5-4d496a0e742b" name="Changes" comment="add unity related files">
+    <list default="true" id="9bc68ed4-f5c6-4808-b3d5-4d496a0e742b" name="Changes" comment="add first script (Log Test)">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023_03_15_10_19_PM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SUA/Assets/Scripts/TextTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SUA/Assets/Scripts/TextTest.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SUA/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +68,7 @@
       <workItem from="1678875061365" duration="4384000" />
       <workItem from="1678880700420" duration="916000" />
       <workItem from="1678886017404" duration="1018000" />
+      <workItem from="1678887470257" duration="1776000" />
     </task>
     <task id="LOCAL-00001" summary="add unity project files">
       <created>1678876811906</created>
@@ -112,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678886774861</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add first script (Log Test)">
+      <created>1678887542389</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678887542389</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +148,7 @@
     <MESSAGE value="temp" />
     <MESSAGE value="add first scene" />
     <MESSAGE value="add unity related files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add unity related files" />
+    <MESSAGE value="add first script (Log Test)" />
+    <option name="LAST_COMMIT_MESSAGE" value="add first script (Log Test)" />
   </component>
 </project>
