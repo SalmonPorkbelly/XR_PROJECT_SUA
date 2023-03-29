@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc68ed4-f5c6-4808-b3d5-4d496a0e742b" name="Changes" comment="unity setting changed">
+    <list default="true" id="d3a861fc-51e0-4359-9f90-ab013d4d1f21" name="Changes" comment="add first script (Log Test)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SUA/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SUA/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
@@ -57,7 +60,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9bc68ed4-f5c6-4808-b3d5-4d496a0e742b" name="Changes" comment="" />
+      <changelist id="d3a861fc-51e0-4359-9f90-ab013d4d1f21" name="Changes" comment="" />
       <created>1678875060240</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -67,6 +70,7 @@
       <workItem from="1678886017404" duration="1018000" />
       <workItem from="1678887470257" duration="1776000" />
       <workItem from="1679479114146" duration="853000" />
+      <workItem from="1680090896019" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="add unity project files">
       <created>1678876811906</created>
