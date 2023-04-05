@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3a861fc-51e0-4359-9f90-ab013d4d1f21" name="Changes" comment="add first script (Log Test)">
+    <list default="true" id="d3a861fc-51e0-4359-9f90-ab013d4d1f21" name="Changes" comment="charactor block 한칸씩 이동 0329">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUA/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUA/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUA/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUA/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUA/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +66,7 @@
       <workItem from="1678887470257" duration="1776000" />
       <workItem from="1679479114146" duration="853000" />
       <workItem from="1680090896019" duration="40000" />
+      <workItem from="1680091027546" duration="3065000" />
     </task>
     <task id="LOCAL-00001" summary="add unity project files">
       <created>1678876811906</created>
@@ -128,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678887542389</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="charactor block 한칸씩 이동 0329">
+      <created>1680091799609</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680091799609</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +154,7 @@
     <MESSAGE value="add first scene" />
     <MESSAGE value="add unity related files" />
     <MESSAGE value="add first script (Log Test)" />
-    <option name="LAST_COMMIT_MESSAGE" value="add first script (Log Test)" />
+    <MESSAGE value="charactor block 한칸씩 이동 0329" />
+    <option name="LAST_COMMIT_MESSAGE" value="charactor block 한칸씩 이동 0329" />
   </component>
 </project>
