@@ -4,8 +4,72 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3a861fc-51e0-4359-9f90-ab013d4d1f21" name="Changes" comment="charactor block 한칸씩 이동 0329">
+    <list default="true" id="9bc68ed4-f5c6-4808-b3d5-4d496a0e742b" name="Changes" comment="remove class branch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/Assets/0404.unity" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/Assets/0404.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/Assets/Prefabs/projectile.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/Assets/Prefabs/projectile.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/Assets/Scripts/PlayerScene/ProjectileController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/Assets/Scripts/PlayerScene/ProjectileController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/Assets/Scripts/PlayerScene/ProjectileMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/Assets/Scripts/PlayerScene/ProjectileMove.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/MagicaVoxel.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/config.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/dict.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/font/calibri-bold-lit.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/font/consolas-bold-lit.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/font/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/font/symbol.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/hotkey.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/locale.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/cam.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/comment.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/editor.sty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/editor.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/file.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/lower.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/m_brush.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/m_edit.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/m_opt.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/o_edit.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/o_layer.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/palette.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/r_cam.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/r_display.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/r_image.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/r_light.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/r_mtl.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/r_sample.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/top.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/config/ui/upper.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/export/tiles/tile.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/export/tiles/tile.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/export/tiles/tile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/ibl/HDR_041_Path_Env.hdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/ibl/HDR_111_Parking_Lot_2_Env.hdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/ibl/HDR_112_River_Road_2_Env.hdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/palette/pal0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/palette/pal1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/palette/pal2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/palette/pal3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/shader/gear.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/shader/mandelbulb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/shader/poly.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/shader/round.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/shader/sphere.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/shader/stair.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/shader/torus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/vox/3x3x3.vox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/vox/cars.vox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/vox/castle.vox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/vox/chr_knight.vox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/vox/doom.vox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/vox/menger.vox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/vox/monu1.vox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/vox/monu2.vox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/vox/monu3.vox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/vox/room.vox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/vox/teapot.vox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/MagicaVoxel-0.99.6.4-win64/vox/tile.vox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +119,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d3a861fc-51e0-4359-9f90-ab013d4d1f21" name="Changes" comment="" />
+      <changelist id="9bc68ed4-f5c6-4808-b3d5-4d496a0e742b" name="Changes" comment="remove class branch" />
       <created>1678875060240</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -67,6 +131,7 @@
       <workItem from="1679479114146" duration="853000" />
       <workItem from="1680090896019" duration="40000" />
       <workItem from="1680091027546" duration="3065000" />
+      <workItem from="1681298237429" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="add unity project files">
       <created>1678876811906</created>

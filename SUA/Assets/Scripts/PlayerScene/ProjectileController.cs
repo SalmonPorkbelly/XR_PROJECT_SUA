@@ -13,7 +13,7 @@ public class ProjectileController : MonoBehaviour
 
         temp.transform.position = this.gameObject.transform.position;
         temp.transform.localScale = Vector3.one * 0.3f;
-        temp.GetComponent<ProjectileController>().launchDirection = transform.forward;
+        temp.GetComponent<ProjectileMove>().launchDirection = transform.forward;
 
         Destroy(temp, 10.0f);
 
