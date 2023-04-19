@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9bc68ed4-f5c6-4808-b3d5-4d496a0e742b" name="Changes" comment="make road, tank, monster">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/Assets/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/Assets/GameScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/Assets/Scripts/PlayerScene/ProjectileController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/Assets/Scripts/PlayerScene/ProjectileController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/Assets/Scripts/PlayerScene/ProjectileMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/Assets/Scripts/PlayerScene/ProjectileMove.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUA/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/SUA/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="2602c438-5541-4a97-8f83-a5d01d82d336" />
@@ -68,6 +74,7 @@
       <workItem from="1680090896019" duration="40000" />
       <workItem from="1680091027546" duration="3065000" />
       <workItem from="1681298237429" duration="630000" />
+      <workItem from="1681900023652" duration="908000" />
     </task>
     <task id="LOCAL-00001" summary="add unity project files">
       <created>1678876811906</created>
