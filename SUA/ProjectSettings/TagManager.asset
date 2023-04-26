@@ -8,6 +8,7 @@ TagManager:
   - Monster
   - ground
   - Ground
+  - GameManager
   layers:
   - Default
   - TransparentFX
