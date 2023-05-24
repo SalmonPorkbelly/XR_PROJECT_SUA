@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems; // ui 이벤트관리하기 위해
 
 public class PlayerController : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class PlayerController : MonoBehaviour
     public Camera viewCamera; //메인 카메라 받아오는 Camera Object
     public Vector3 velocity; //이동 속도 값
     public ProjectileController projectileController;
+
 
 
     // Start is called before the first frame update
@@ -34,10 +36,15 @@ public class PlayerController : MonoBehaviour
             GetComponent<Rigidbody>().AddForce(Vector3.up * 10.0f, ForceMode.Impulse);
         }
 
-        if (Input.GetMouseButtonDown(0))
+        if (!EventSystem.current.IsPointerOverGameObject())
         {
-            projectileController.FireProjectile();
+            // 개임 ui 와 동시에 동작하지 않게 하기 위해 설정
+            if (Input.GetMouseButtonDown(0))
+            {
+                projectileController.FireProjectile();
+            }
         }
+        
     }
 
     private void FixedUpdate() {
